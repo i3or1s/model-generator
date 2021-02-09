@@ -1,0 +1,27 @@
+Cherkasy|71
+Chernihiv|74
+Chernivtsi|77
+Dnipropetrovsk|12
+Donetsk|14
+Ivano-Frankivsk|26
+Kharkiv|63
+Kherson|65
+Khmelnytskyi|68
+Kiev|32
+Kirovohrad|35
+Luhansk|09
+Lviv|46
+Mykolaiv|48
+Odessa|51
+Poltava|53
+Rivne|56
+Sumy|59
+Ternopil|61
+Vinnytsia|05
+Volyn|07
+Zakarpattia|21
+Zaporizhia|23
+Zhytomyr|18
+Avtonomna Respublika Krym|43
+Kyïv|30
+Sevastopol|40

@@ -1,0 +1,14 @@
+Hlavní město Praha|PR
+Jihočeský kraj|JC
+Jihomoravský kraj|JM
+Karlovarský kraj|KA
+Královéhradecký kraj|KR
+Liberecký kraj|LI
+Moravskoslezský kraj|MO
+Olomoucký kraj|OL
+Pardubický kraj|PA
+Plzeňský kraj|PL
+Středočeský kraj|ST
+Ústecký kraj|US
+Vysočina|VY
+Zlínský kraj|ZL

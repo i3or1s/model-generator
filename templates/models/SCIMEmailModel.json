@@ -1,0 +1,19 @@
+{
+    "type": {
+        "generator": "i3or1s\\Generator\\Lottery::draw",
+        "params": {
+            "choices": ["work", "home"]
+        }
+    },
+    "value": {
+        "generator": "i3or1s\\Generator\\PersonDictionary::firstName",
+        "template": "%s@example.com",
+        "modifier": [
+            "i3or1s\\Modifier\\AnyLatin2LatinASCII::transform",
+            "strtolower"
+        ]
+    },
+    "primary": {
+        "template": "true"
+    }
+}

@@ -1,0 +1,12 @@
+Bouenza|11
+Brazzaville|BZV
+Cuvette|8
+Cuvette-Ouest|15
+Kouilou|5
+Lékoumou|2
+Likouala|7
+Niari|9
+Plateaux|14
+Pointe-Noire|16
+Pool|12
+Sangha|13

@@ -1,0 +1,14 @@
+{
+    "id": {
+        "generator": "i3or1s\\Generator\\PassThroughString::pass",
+        "params": {
+            "param": "1"
+        },
+        "template": "%s"
+    },
+    "complex": {
+        "type": "complex",
+        "model": "simpleModel",
+        "numOfIterations": 2
+    }
+}

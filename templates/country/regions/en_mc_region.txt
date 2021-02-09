@@ -1,0 +1,17 @@
+Colle|CL
+Condamine|CO
+Fontvieille|FO
+Gare|GA
+Jardin Exotique|JE
+Larvotto|LA
+Malbousquet|MA
+Monaco-Ville|MO
+Moneghetti|MG
+Monte-Carlo|MC
+Moulins|MU
+Port-Hercule|PH
+Saint-Roman|SR
+Sainte-Dévote|SD
+Source|SO
+Spélugues|SP
+Vallon de la Rousse|VR

@@ -1,0 +1,6 @@
+Direction Island|DI
+Home Island|HM
+Horsburgh Island|HR
+North Keeling Island|NK
+South Island|SI
+West Island|WI

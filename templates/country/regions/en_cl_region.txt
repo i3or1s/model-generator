@@ -1,0 +1,17 @@
+Aisén del General Carlos Ibáñez del Campo|AI
+Antofagasta|AN
+Araucanía|AR
+Arica y Parinacota|AP
+Atacama|AT
+Bío-Bío|BI
+Coquimbo|CO
+Libertador General Bernardo O'Higgins|LI
+Los Lagos|LL
+Los Ríos|LR
+Magallanes y Antartica Chilena|MA
+Marga-Marga|
+Maule|ML
+Ñuble|NB
+Región Metropolitana de Santiago|RM
+Tarapacá|TA
+Valparaíso|VS

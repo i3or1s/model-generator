@@ -1,0 +1,9 @@
+{
+    "type": {
+        "generator": "i3or1s\\Generator\\PassThroughString::pass",
+        "params": {
+            "param": "1"
+        },
+        "template": "%s"
+    }
+}

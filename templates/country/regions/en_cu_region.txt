@@ -1,0 +1,16 @@
+Artemisa|15
+Camagüey|09
+Ciego de Ávila|08
+Cienfuegos|06
+Granma|12
+Guantánamo|14
+Holguín|11
+Isla de la Juventud|99
+La Habana|03
+Las Tunas|10
+Matanzas|04
+Mayabeque|16
+Pinar del Río|01
+Sancti Spíritus|07
+Santiago de Cuba|13
+Villa Clara|05

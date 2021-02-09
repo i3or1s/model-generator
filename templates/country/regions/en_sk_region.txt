@@ -1,0 +1,8 @@
+Banskobystricky|BC
+Bratislavsky|BL
+Kosicky|KI
+Nitriansky|NI
+Presovsky|PV
+Trenciansky|TC
+Trnavsky|TA
+Zilinsky|ZI

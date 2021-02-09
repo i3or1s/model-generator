@@ -1,0 +1,10 @@
+Alytaus|AL
+Kauno|KU
+Klaipėdos|KL
+Marijampolės|MR
+Panevėžio|PN
+Šiaulių|SA
+Tauragės|TA
+Telšių|TE
+Utenos|UT
+Vilniaus|VL

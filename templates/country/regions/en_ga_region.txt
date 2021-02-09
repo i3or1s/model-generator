@@ -1,0 +1,9 @@
+Estuaire|1
+Haut-Ogooué|2
+Moyen-Ogooué|3
+Ngounié|4
+Nyanga|5
+Ogooué-Ivindo|6
+Ogooué-Lolo|7
+Ogooué-Maritime|8
+Woleu-Ntem|9

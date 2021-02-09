@@ -1,0 +1,22 @@
+Ailinglaplap|ALL
+Ailuk|ALK
+Arno|ARN
+Aur|AUR
+Bikini and Kili|KIL
+Ebon|EBO
+Jabat|JAB
+Jaluit|JAL
+Kwajalein|KWA
+Lae|LAE
+Lib|LIB
+Likiep|LIK
+Majuro|MAJ
+Maloelap|MAL
+Mejit|MEJ
+Namdrik|NMK
+Namu|NMU
+Rongelap|RON
+Ujae|UJA
+Utrik|UTI
+Wotho|WTH
+Wotje|WTJ

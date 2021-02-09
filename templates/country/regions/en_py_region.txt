@@ -1,0 +1,18 @@
+Alto Paraguay|16
+Alto Parana|10
+Amambay|13
+Asuncion|ASU
+Caaguazu|5
+Caazapa|6
+Canindeyu|14
+Central|11
+Concepcion|1
+Cordillera|3
+Boqueron|17
+Guaira|4
+Itapua|7
+Misiones|8
+Neembucu|12
+Paraguari|9
+Presidente Hayes|15
+San Pedro|2

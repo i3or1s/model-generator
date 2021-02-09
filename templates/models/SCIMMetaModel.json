@@ -1,0 +1,18 @@
+{
+    "resourceType": {
+        "template": "User"
+    },
+    "created": {
+        "template": "2010-01-23T04:56:22Z"
+    },
+    "lastModified": {
+        "template": "2010-01-23T04:56:22Z"
+    },
+    "version": {
+        "template": "v0.1"
+    },
+    "location": {
+        "generator": "Ramsey\\Uuid\\Uuid::uuid4",
+        "template": "https://example.com/v2/Users/%s"
+    }
+}

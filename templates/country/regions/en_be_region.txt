@@ -1,0 +1,3 @@
+Brussels|BRU
+Flanders|VLG
+Wallonia|WAL

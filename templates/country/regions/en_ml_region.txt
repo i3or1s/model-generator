@@ -1,0 +1,11 @@
+Bamako|BKO
+Gao|7
+Kayes|1
+Kidal|8
+Koulikoro|2
+Mopti|5
+Segou|4
+Sikasso|3
+Tombouctou|6
+Taoudénit|9
+Ménaka|10

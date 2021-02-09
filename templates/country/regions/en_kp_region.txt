@@ -1,0 +1,11 @@
+Chagang-do (Chagang Province)|04
+Hamgyong-bukto (North Hamgyong Province)|09
+Hamgyong-namdo (South Hamgyong Province)|08
+Hwanghae-bukto (North Hwanghae Province)|06
+Hwanghae-namdo (South Hwanghae Province)|05
+Kangwon-do (Kangwon Province)|07
+Nasŏn (Najin-Sŏnbong)|13
+P'yongan-bukto (North P'yongan Province)|03
+P'yongan-namdo (South P'yongan Province)|02
+P'yongyang-si (P'yongyang City)|01
+Yanggang-do (Yanggang Province)|10

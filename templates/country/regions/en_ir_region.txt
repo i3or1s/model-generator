@@ -1,0 +1,31 @@
+Alborz|32
+Ardabīl|03
+Āz̄arbāyjān-e Gharbī|02
+Āz̄arbāyjān-e Sharqī|01
+Būshehr|06
+Chahār Maḩāl va Bakhtīārī|08
+Eşfahān|04
+Fārs|14
+Gīlān|19
+Golestān|27
+Hamadān|24
+Hormozgān|23
+Īlām|05
+Kermān|15
+Kermānshāh|17
+Khorāsān-e Jonūbī|29
+Khorāsān-e Raẕavī|30
+Khorāsān-e Shomālī|61
+Khūzestān|10
+Kohgīlūyeh va Bowyer Aḩmad|18
+Kordestān|16
+Lorestān|20
+Markazi|22
+Māzandarān|21
+Qazvīn|28
+Qom|26
+Semnān|12
+Sīstān va Balūchestān|13
+Tehrān|07
+Yazd|25
+Zanjān|11

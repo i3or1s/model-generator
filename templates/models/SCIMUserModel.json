@@ -1,0 +1,109 @@
+{
+    "schemas": {
+        "template": ["urn:ietf:params:scim:schemas:core:2.0:User"]
+    },
+    "id": {
+        "generator": "Ramsey\\Uuid\\Uuid::uuid4"
+    },
+    "externalId": {
+        "generator": "i3or1s\\Generator\\AutoInc::next"
+    },
+    "userName": {
+        "generator": "i3or1s\\Generator\\PersonDictionary::firstName",
+        "template": "%s@example.com",
+        "modifier": [
+            "i3or1s\\Modifier\\AnyLatin2LatinASCII::transform",
+            "strtolower"
+        ]
+    },
+    "name": {
+        "type": "complex",
+        "model": "SCIMNameModel",
+        "numOfIterations": 1
+    },
+    "displayName": {
+       "generator": "i3or1s\\Generator\\PersonDictionary::fullName",
+       "modifier": [
+           "i3or1s\\Modifier\\AnyLatin2LatinASCII::transform"
+       ]
+    },
+    "nickName": {
+        "generator": "i3or1s\\Generator\\PersonDictionary::firstName",
+        "modifier": [
+           "i3or1s\\Modifier\\AnyLatin2LatinASCII::transform"
+        ]
+    },
+    "profileUrl": {
+        "generator": "i3or1s\\Generator\\PersonDictionary::firstName",
+        "template": "https://login.example.com/%s",
+        "modifier": [
+            "i3or1s\\Modifier\\AnyLatin2LatinASCII::transform",
+            "strtolower"
+        ]
+    },
+    "emails": {
+        "type": "complex",
+        "model": "SCIMEmailModel",
+        "numOfIterations": 2
+    },
+    "addresses": {
+        "type": "complex",
+        "model": "SCIMAddressModel",
+        "numOfIterations": 2
+    },
+    "phoneNumbers": {
+        "type": "complex",
+        "model": "SCIMPhoneModel",
+        "numOfIterations": 2
+    },
+    "ims": {
+        "type": "complex",
+        "model": "SCIMImsModel",
+        "numOfIterations": 2
+    },
+    "photos": {
+        "type": "complex",
+        "model": "SCIMPhotoModel",
+        "numOfIterations": 2
+    },
+    "userType": {
+        "generator": "i3or1s\\Generator\\Lottery::draw",
+        "params": {
+            "choices": ["Employee", "Manager"]
+        }
+    },
+    "title": {
+        "generator": "i3or1s\\Generator\\Lottery::draw",
+        "params": {
+            "choices": ["Tour Guide", "Admin"]
+        }
+    },
+    "preferredLanguage": {
+        "generator": "i3or1s\\Generator\\Lottery::draw",
+        "params": {
+            "choices": ["en-US"]
+        }
+    },
+    "locale": {
+        "generator": "i3or1s\\Generator\\Lottery::draw",
+        "params": {
+            "choices": ["en-US"]
+        }
+    },
+    "timezone": {
+        "template": "America/Los_Angeles"
+    },
+    "active": {
+        "template": "true"
+    },
+    "password": {
+        "template": "t1meMa$heen"
+    },
+    "groups": [],
+    "x509Certificates": [],
+    "meta": {
+        "type": "complex",
+        "model": "SCIMMetaModel",
+        "numOfIterations": 1
+    }
+}

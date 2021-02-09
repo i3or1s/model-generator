@@ -1,0 +1,14 @@
+Ahuachapán|AH
+Cabañas|CA
+Cuscatlán|CU
+Chalatenango|CH
+La Libertad|LI
+La Paz|PA
+La Unión|UN
+Morazán|MO
+San Miguel|SM
+San Salvador|SS
+Santa Ana|SA
+San Vicente|SV
+Sonsonate|SO
+Usulután|US

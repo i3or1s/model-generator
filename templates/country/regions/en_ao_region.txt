@@ -1,0 +1,18 @@
+Bengo|BGO
+Benguela|BGU
+Bié|BIE
+Cabinda|CAB
+Cuando Cubango|CCU
+Cuanza Norte|CNO
+Cuanza Sul|CUS
+Cunene|CNN
+Huambo|HUA
+Huíla|HUI
+Luanda|LUA
+Lunda Norte|LNO
+Lunda Sul|LSU
+Malanje|MAL
+Moxico|MOX
+Namibe|NAM
+Uíge|UIG
+Zaire|ZAI

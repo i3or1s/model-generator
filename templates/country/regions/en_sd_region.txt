@@ -1,0 +1,18 @@
+Al Bahr al Ahmar|RS
+Al Jazirah|GZ
+Al Khartum|KH
+Al Qadarif|GD
+An Nil al Abyad|NW
+An Nil al Azraq|NB
+Ash Shamaliyah|NO
+Gharb Darfur|DW
+Gharb Kurdufan|GK
+Janub Darfur|DS
+Janub Kurdufan|KS
+Kassala|KA
+Nahr an Nil|NR
+Shamal Darfur|DN
+Sharq Darfur|DE
+Shiamal Kurdufan|KN
+Sinnar|SI
+Wasat Darfur Zalinjay|DC

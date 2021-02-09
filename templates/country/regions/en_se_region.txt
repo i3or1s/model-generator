@@ -1,0 +1,21 @@
+Blekinge|K
+Dalarna|W
+Gävleborg|X
+Gotland|I
+Halland|N
+Jämtland|Z
+Jönköping|F
+Kalmar|H
+Kronoberg|G
+Norrbotten|BD
+Örebro|T
+Östergötland|E
+Skåne|M
+Södermanland|D
+Stockholm|AB
+Uppsala|C
+Värmland|S
+Västerbotten|AC
+Västernorrland|Y
+Västmanland|U
+Västra Götaland|O

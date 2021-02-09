@@ -1,0 +1,11 @@
+Addis Ababa|AA
+Afar|AF
+Amhara|AM
+Benshangul-Gumaz|BE
+Dire Dawa|DD
+Gambela|GA
+Harari|HA
+Oromia|OR
+Somali|SO
+Southern Nations Nationalities and People's Region|SN
+Tigray|TI

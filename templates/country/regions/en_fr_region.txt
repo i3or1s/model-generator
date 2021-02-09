@@ -1,0 +1,26 @@
+Auvergne-Rhône-Alpes|ARA
+Bourgogne-Franche-Comté|BFC
+Bretagne|BRE
+Centre-Val de Loire|CVL
+Corse|COR
+Grand Est|GES
+Hauts-de-France|HDF
+Île-de-France|IDF
+Normandie|NOR
+Nouvelle-Aquitaine|NAQ
+Occitanie|OCC
+Pays de la Loire|PDL
+Provence-Alpes-Cote d'Azur|PAC
+Clipperton|CP
+Guadeloupe|GP
+Guyane|GF
+Martinique|MQ
+Mayotte|YT
+Novelle-Calédonie|NC
+Polynésie|PF
+Saint-Pierre-et-Miquelon|PM
+Saint Barthélemy|BL
+Saint Martin|MF
+Réunion|RE
+Terres Australes Françaises|TF
+Wallis-et-Futuna|WF

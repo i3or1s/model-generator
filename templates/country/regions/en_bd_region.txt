@@ -1,0 +1,8 @@
+Barisal|A
+Chittagong|B
+Dhaka|C
+Khulna|D
+Mymensingh|M
+Rajshahi|E
+Rangpur|F
+Sylhet|G

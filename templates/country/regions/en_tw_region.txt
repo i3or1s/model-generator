@@ -1,0 +1,20 @@
+Chang-hua|CHA
+Chia-i|CYQ
+Hsin-chu|HSQ
+Hua-lien|HUA
+Kao-hsiung|KHH
+Keelung|KEE
+Kinmen|KIN
+Lienchiang|LIE
+Miao-li|MIA
+Nan-t'ou|NAN
+P'eng-hu|PEN
+New Taipei|NWT
+P'ing-tung|PING
+T'ai-chung|TXG
+T'ai-nan|TNN
+T'ai-pei|TPE
+T'ai-tung|TTT
+T'ao-yuan|TAO
+Yi-lan|ILA
+Yun-lin|YUN

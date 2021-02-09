@@ -1,0 +1,12 @@
+Berat|01
+Dibër|09
+Durrës|02
+Elbasan|03
+Fier|04
+Gjirokastër|05
+Korçë|06
+Kukës|07
+Lezhë|08
+Shkodër|10
+Tirana|11
+Vlorë|12

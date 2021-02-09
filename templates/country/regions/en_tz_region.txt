@@ -1,0 +1,26 @@
+Arusha|01
+Coast|19
+Dar es Salaam|02
+Dodoma|03
+Iringa|04
+Kagera|05
+Kigoma|08
+Kilimanjaro|09
+Lindi|12
+Manyara|26
+Mara|13
+Mbeya|14
+Morogoro|16
+Mtwara|17
+Mwanza|18
+Pemba North|06
+Pemba South|10
+Rukwa|20
+Ruvuma|21
+Shinyanga|22
+Singida|23
+Tabora|24
+Tanga|25
+Zanzibar North|07
+Zanzibar Central/South|11
+Zanzibar Urban/West|15

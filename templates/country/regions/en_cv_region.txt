@@ -1,0 +1,19 @@
+Boa Vista|BV
+Brava|BR
+Calheta de São Miguel|CS
+Maio|MA
+Mosteiros|MO
+Paúl|PA
+Porto Novo|PN
+Praia|PR
+Ribeira Brava|RB
+Ribeira Grande|RG
+Sal|SL
+Santa Catarina|CA
+Santa Cruz|CR
+São Domingos|SD
+São Filipe|SF
+São Nicolau|SN
+São Vicente|SV
+Tarrafal|TA
+Tarrafal de São Nicolau|TS

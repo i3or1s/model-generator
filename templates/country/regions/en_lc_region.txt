@@ -1,0 +1,10 @@
+Anse-la-Raye|01
+Canaries|12
+Castries|02
+Choiseul|03
+Dennery|05
+Gros Islet|06
+Laborie|07
+Micoud|08
+Soufriere|10
+Vieux Fort|11

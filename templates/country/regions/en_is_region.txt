@@ -1,0 +1,8 @@
+Austurland|7
+Höfuðborgarsvæði utan Reykjavíkur|1
+Norðurland eystra|6
+Norðurland vestra|5
+Suðurland|8
+Suðurnes|2
+Vestfirðir|4
+Vesturland|3

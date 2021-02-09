@@ -1,0 +1,11 @@
+Aragatsotn|AG
+Ararat|AR
+Armavir|AV
+Gegharkunik|GR
+Kotayk|KT
+Lori|LO
+Shirak|SH
+Syunik|SU
+Tavush|TV
+Vayots Dzor|VD
+Yerevan|ER

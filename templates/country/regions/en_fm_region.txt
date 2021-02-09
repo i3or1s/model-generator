@@ -1,0 +1,4 @@
+Chuuk (Truk)|TRK
+Kosrae|KSA
+Pohnpei|PNI
+Yap|YAP

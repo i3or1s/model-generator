@@ -1,0 +1,12 @@
+Abkhazia (Sokhumi)|AB
+Ajaria (Bat'umi)|AJ
+Guria|GU
+Imereti|IM
+K'akheti|KA
+Kvemo Kartli|KK
+Mtshkheta-Mtianeti|MM
+Rach'a-Lexhkumi-KvemoSvaneti|RL
+Samegrelo-Zemo Svaneti|SZ
+Samtskhe-Javakheti|SJ
+Shida Kartli|SK
+Tbilisi|TB

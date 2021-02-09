@@ -1,0 +1,71 @@
+Aračinovo|02
+Berovo|03
+Bitola|04
+Bogdanci|05
+Bogovinje|06
+Bosilovo|07
+Brvenica|08
+Centar Župa|78
+Čaška|80
+Češinovo-Obleševo|81
+Čučer Sandevo|82
+Debar|21
+Debarca|22
+Delčevo|23
+Demir Hisar|25
+Demir Kapija|24
+Doran|26
+Dolneni|27
+Gevgelija|18
+Gostivar|19
+Gradsko|20
+Ilinden|34
+Jegunovce|35
+Karbinci|37
+Kavadarci|36
+Kičevo|40
+Kočani|42
+Konče|41
+Kratovo|43
+Kriva Palanka|44
+Krivogaštani|45
+Kruševo|46
+Kumanovo|47
+Lipkovo|48
+Lozovo|49
+Makedonska Kamenica|51
+Makedonski Brod|52
+Mavrovo i Rostuša|50
+Mogila|53
+Negotino|54
+Novaci|55
+Novo Selo|56
+Ohrid|58
+Pehčevo|60
+Petrovec|59
+Plasnica|61
+Prilep|62
+Probištip|63
+Radoviš|
+Rankovce|65
+Resen|66
+Rosoman|67
+Skopje|85
+Sopište|70
+Staro Nagoričane|71
+Struga|72
+Strumica|73
+Studeničani|74
+Sveti Nikole|69
+Štip|83
+Tearce|75
+Tetovo|76
+Valandovo|10
+Vasilevo|11
+Veles|13
+Vevčani|12
+Vinica|14
+Vrapčište|16
+Zelenikovo|32
+Zrnovci|33
+Želino|30

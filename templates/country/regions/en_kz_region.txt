@@ -1,0 +1,16 @@
+Almaty|ALA
+Aqmola|AKM
+Aqtobe|AKT
+Astana|AST
+Atyrau|ATY
+Batys Qazaqstan|ZAP
+Bayqongyr|
+Mangghystau|MAN
+Ongtustik Qazaqstan|YUZ
+Pavlodar|PAV
+Qaraghandy|KAR
+Qostanay|KUS
+Qyzylorda|KZY
+Shyghys Qazaqstan|VOS
+Soltustik Qazaqstan|SEV
+Zhambyl|ZHA

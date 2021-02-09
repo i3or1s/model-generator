@@ -1,0 +1,29 @@
+Alexandria|ALX
+Aswan|ASN
+Asyout|AST
+Bani Sueif|BNS
+Beheira|BH
+Cairo|C
+Daqahlia|DK
+Dumiat|DT
+El Bahr El Ahmar|BA
+El Ismailia|IS
+El Suez|SUZ
+El Wadi El Gedeed|WAD
+Fayoum|FYM
+Gharbia|GH
+Giza|GZ
+Helwan|HU
+Kafr El Sheikh|KFS
+Luxor|LX
+Matrouh|MT
+Menia|MN
+Menofia|MNF
+North Sinai|SIN
+Port Said|PTS
+Qalubia|KB
+Qena|KN
+Sharqia|SHR
+Sixth of October|SU
+Sohag|SHG
+South Sinai|JS

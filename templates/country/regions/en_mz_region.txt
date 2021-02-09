@@ -1,0 +1,11 @@
+Cabo Delgado|P
+Gaza|G
+Inhambane|I
+Manica|B
+Maputo|L
+Maputo (City)|MPM
+Nampula|N
+Niassa|A
+Sofala|S
+Tete|T
+Zambezia|Q

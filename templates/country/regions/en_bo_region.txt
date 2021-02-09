@@ -1,0 +1,9 @@
+Beni|B
+Chuquisaca|H
+Cochabamba|C
+La Paz|L
+Oruro|O
+Pando|N
+Potosí|P
+Santa Cruz|S
+Tarija|T

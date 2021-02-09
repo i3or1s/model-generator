@@ -1,0 +1,5 @@
+Kigali|01
+Eastern|02
+Northern|03
+Western|04
+Southern|05

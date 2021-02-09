@@ -1,0 +1,34 @@
+Acklins Island|01
+Berry Islands|22
+Bimini|02
+Black Point|23
+Cat Island|03
+Central Abaco|24
+Crooked Island and Long Cay|28
+East Grand Bahama|29
+Exuma|04
+Freeport|05
+Fresh Creek|06
+Governor's Harbour|07
+Green Turtle Cay|08
+Harbour Island|09
+High Rock|10
+Inagua|11
+Kemps Bay|12
+Long Island|13
+Marsh Harbour|14
+Mayaguana|15
+Moore’s Island|40
+New Providence|16
+Nichollstown and Berry Islands|17
+North Abaco|42
+North Andros|41
+North Eleuthera|33
+Ragged Island|18
+Rock Sound|19
+San Salvador and Rum Cay|20
+Sandy Point|21
+South Abaco|35
+South Andros|36
+South Eleuthera|37
+West Grand Bahama|39

@@ -1,0 +1,32 @@
+Antigua Island|01
+Barbuda Island|02
+Bird Island|04
+Bishop Island|05
+Blake Island|06
+Crump Island|09
+Dulcina Island|10
+Exchange Island|11
+Five Islands|12
+Great Bird Island|13
+Green Island|14
+Guiana Island|15
+Hawes Island|17
+Hells Gate Island|16
+Henry Island|18
+Johnson Island|19
+Kid Island|20
+Lobster Island|22
+Maiden Island|24
+Moor Island|25
+Nanny Island|26
+Pelican Island|27
+Prickly Pear Island|28
+Rabbit Island|29
+Red Head Island|31
+Redonda Island|03
+Sandy Island|32
+Smith Island|33
+The Sisters|34
+Vernon Island|35
+Wicked Will Island|36
+York Island|37

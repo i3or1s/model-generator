@@ -1,0 +1,11 @@
+City of Hamilton|03
+Devonshire Parish|01
+Hamilton Parish|02
+Paget Parish|04
+Pembroke Parish|05
+Sandys Parish|08
+Smith's Parish|09
+Southampton Parish|10
+St. George's Parish|07
+Town of St. George|06
+Warwick Parish|11

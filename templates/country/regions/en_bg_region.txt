@@ -1,0 +1,28 @@
+Blagoevgrad|01
+Burgas|02
+Dobrich|08
+Gabrovo|07
+Jambol|28
+Khaskovo|26
+Kjustendil|10
+Kurdzhali|09
+Lovech|11
+Montana|12
+Pazardzhik|13
+Pernik|14
+Pleven|15
+Plovdiv|16
+Razgrad|17
+Ruse|18
+Shumen|27
+Silistra|19
+Sliven|20
+Smoljan|21
+Sofija|23
+Sofija-Grad|22
+Stara Zagora|24
+Turgovishhe|25
+Varna|03
+Veliko Turnovo|04
+Vidin|05
+Vraca|06

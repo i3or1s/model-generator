@@ -1,0 +1,9 @@
+Burgenland|1
+Kärnten|2
+Niederösterreich|3
+Oberösterreich|4
+Salzburg|5
+Steiermark|6
+Tirol|7
+Vorarlberg|8
+Wien|9

@@ -1,0 +1,36 @@
+{
+    "type": {
+        "generator": "i3or1s\\Generator\\Lottery::draw",
+        "params": {
+            "choices": ["work", "home"]
+        }
+    },
+    "streetAddress": {
+        "generator": "i3or1s\\Generator\\MeaninglessStreetGenerator::generate"
+    },
+    "locality": {
+        "generator": "i3or1s\\Generator\\Lottery::draw",
+        "params": {
+            "choices": ["Green", "Hidden Hills", "Sleepy Hollow", "", "", ""]
+        }
+    },
+    "region": {
+        "generator": "i3or1s\\Generator\\CountryRegion::regionName"
+    },
+    "postalCode": {
+        "generator": "mt_rand",
+        "params": {
+            "min": 1000,
+            "max": 99999
+        }
+    },
+    "country": {
+        "generator": "i3or1s\\Generator\\CountryRegion::countryShortCode"
+    },
+    "formatted": {
+        "template": "{streetAddress}\n{locality}, {region} {postalCode} {country}"
+    },
+    "primary": {
+        "template": "true"
+    }
+}

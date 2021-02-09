@@ -1,0 +1,22 @@
+Anguilla|01
+Anguillita Island|02
+Blowing Rock|03
+Cove Cay|04
+Crocus Cay|05
+Deadman's Cay|06
+Dog Island|07
+East Cay|08
+Little Island|09
+Little Scrub Island|10
+Mid Cay|11
+North Cay|12
+Prickly Pear Cays|13
+Rabbit Island|14
+Sandy Island/Sand Island|15
+Scilly Cay|16
+Scrub Island|17
+Seal Island|18
+Sombrero/Hat Island|19
+South Cay|20
+South Wager Island|21
+West Cay|22

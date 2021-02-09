@@ -1,0 +1,45 @@
+Balé|BAL
+Bam/Lake Bam|BAM
+Banwa Province|BAN
+Bazèga|BAZ
+Bougouriba|BGR
+Boulgou Province|BLG
+Boulkiemdé|BLK
+Comoé/Komoe|COM
+Ganzourgou Province|GAN
+Gnagna|GNA
+Gourma Province|GOU
+Houet|HOU
+Ioba|IOB
+Kadiogo|KAD
+Kénédougou|KEN
+Komondjari|KMD
+Kompienga|KMP
+Kossi Province|KOS
+Koulpélogo|KOP
+Kouritenga|KOT
+Kourwéogo|KOW
+Léraba|LER
+Loroum|LOR
+Mouhoun|MOU
+Namentenga|NAM
+Naouri/Nahouri|NAO
+Nayala|NAY
+Noumbiel|NOU
+Oubritenga|OUB
+Oudalan|OUD
+Passoré|PAS
+Poni|PON
+Sanguié|SNG
+Sanmatenga|SMT
+Séno|SEN
+Sissili|SIS
+Soum|SOM
+Sourou|SOR
+Tapoa|TAP
+Tui/Tuy|TUI
+Yagha|YAG
+Yatenga|YAT
+Ziro|ZIR
+Zondoma|ZON
+Zoundwéogo|ZOU

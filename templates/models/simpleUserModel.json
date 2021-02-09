@@ -1,0 +1,27 @@
+{
+    "firstName": {
+        "generator": "i3or1s\\Generator\\PersonDictionary::firstName",
+        "params": {
+            "gender": "m",
+            "country": "sr",
+            "order": -1
+        },
+        "template": "%s"
+    },
+    "lastName": {
+        "generator": "i3or1s\\Generator\\PersonDictionary::lastName",
+        "params": {
+            "country": "sr",
+            "order": -1
+        },
+        "template": "%s"
+    },
+    "email": {
+        "generator": "i3or1s\\Generator\\FreeEmailDictionary::emailDomain",
+        "template": "{firstName}.{lastName}@%s",
+        "modifier": [
+            "i3or1s\\Modifier\\AnyLatin2LatinASCII::transform",
+            "strtolower"
+        ]
+    }
+}

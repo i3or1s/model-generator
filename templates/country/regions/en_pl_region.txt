@@ -1,0 +1,16 @@
+Dolnośląskie|DS
+Kujawsko-pomorskie|KP
+Łódzkie|LD
+Lubelskie|LU
+Lubuskie|LB
+Małopolskie|MA
+Mazowieckie|MZ
+Opolskie|OP
+Podkarpackie|PK
+Podlaskie|PD
+Pomorskie|PM
+Śląskie|SL
+Świętokrzyskie|SK
+Warmińsko-mazurskie|WN
+Wielkopolskie|WP
+Zachodniopomorskie|ZP

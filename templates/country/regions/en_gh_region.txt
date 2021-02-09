@@ -1,0 +1,16 @@
+Ahafo|
+Ashanti|AH
+Bono|
+Bono East|
+Central|CP
+Eastern|EP
+Greater Accra|AA
+Northern|NP
+North East|
+Oti|
+Savannah|
+Upper East|UE
+Upper West|UW
+Volta|TV
+Western|WP
+Western North|

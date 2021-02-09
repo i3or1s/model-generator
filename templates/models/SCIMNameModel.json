@@ -1,0 +1,26 @@
+{
+    "familyName": {
+        "generator": "i3or1s\\Generator\\PersonDictionary::lastName"
+    },
+    "givenName": {
+        "generator": "i3or1s\\Generator\\PersonDictionary::firstName"
+    },
+    "middleName": {
+        "generator": "i3or1s\\Generator\\PersonDictionary::firstName"
+    },
+    "honorificPrefix": {
+        "generator": "i3or1s\\Generator\\Lottery::draw",
+        "params": {
+            "choices": ["Ms.", "Mss.", "Mr."]
+        }
+    },
+    "honorificSuffix": {
+        "generator": "i3or1s\\Generator\\Lottery::draw",
+        "params": {
+            "choices": ["II", "III", "IV"]
+        }
+    },
+    "formatted": {
+        "template": "{honorificPrefix} {givenName} {middleName} {familyName} {honorificSuffix}"
+    }
+}

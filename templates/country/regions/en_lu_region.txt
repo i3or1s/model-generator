@@ -1,0 +1,12 @@
+Capellen|CA
+Clevaux|CL
+Diekirch|DI
+Echternach|EC
+Esch-sur-Alzette|ES
+Grevenmacher|GR
+Luxembourg|LU
+Mersch|ME
+Redange|RD
+Remich|RM
+Vianden|VD
+Wiltz|WI

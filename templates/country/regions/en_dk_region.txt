@@ -1,0 +1,15 @@
+Hovedstaden|84
+Kujalleq|GL-KU
+Midtjylland|82
+Norderøerne|FO-01
+Nordjylland|81
+Østerø|FO-06
+Qaasuitsup|GL-QA
+Qeqqata|GL-QE
+Sandø|FO-02
+Sermersooq|GL-SM
+Sjælland|85
+Strømø|FO-03
+Suderø|FO-04
+Syddanmark|83
+Vågø|FO-05

@@ -1,0 +1,16 @@
+Brändö|BR
+Eckerö|EC
+Finström|FN
+Föglö|FG
+Geta|GT
+Hammarland|HM
+Jomala|JM
+Kumlinge|KM
+Kökar|KK
+Lemland|LE
+Lumparland|LU
+Mariehamn|MH
+Saltvik|SV
+Sottunga|ST
+Sund|SD
+Vårdö|VR

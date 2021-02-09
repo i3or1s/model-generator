@@ -1,0 +1,17 @@
+Ch'ungch'ongbuk-do|43
+Ch'ungch'ongnam-do|44
+Cheju-do|49
+Chollabuk-do|45
+Chollanam-do|46
+Inch'on-Kwangyokhi|28
+Kang-won-do|42
+Kwangju-Kwangyokshi|29
+Kyonggi-do|41
+Kyongsangbuk-do|47
+Kyongsangnam-do|48
+Pusan-Kwangyokshi|26
+Seoul-T'ukpyolshi|11
+Sejong|50
+Taegu-Kwangyokshi|27
+Taejon-Kwangyokshi|30
+Ulsan-Kwangyokshi|31

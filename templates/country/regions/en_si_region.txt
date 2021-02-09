@@ -1,0 +1,206 @@
+Ajdovscina|001
+Apace|195
+Beltinci|002
+Benedikt|148
+Bistrica ob Sotli|149
+Bled|003
+Bloke|150
+Bohinj|004
+Borovnica|005
+Bovec|006
+Braslovce|151
+Brda|007
+Brezice|009
+Brezovica|008
+Cankova|152
+Celje|011
+Cerklje na Gorenjskem|012
+Cerknica|013
+Cerkno|014
+Cerkvenjak|153
+Cirkulane|196
+Crensovci|015
+Crna na Koroskem|016
+Crnomelj|017
+Destrnik|018
+Divaca|019
+Dobje|154
+Dobrepolje|020
+Dobrna|155
+Dobrova-Polhov Gradec|021
+Dobrovnik|156
+Dol pri Ljubljani|022
+Dolenjske Toplice|157
+Domzale|023
+Dornava|024
+Dravograd|025
+Duplek|026
+Gorenja Vas-Poljane|027
+Gorisnica|028
+Gorje|207
+Gornja Radgona|029
+Gornji Grad|030
+Gornji Petrovci|031
+Grad|158
+Grosuplje|032
+Hajdina|159
+Hoce-Slivnica|160
+Hodos|161
+Horjul|162
+Hrastnik|034
+Hrpelje-Kozina|035
+Idrija|036
+Ig|037
+Ilirska Bistrica|038
+Ivancna Gorica|039
+Izola|040
+Jesenice|041
+Jursinci|042
+Kamnik|043
+Kanal|044
+Kidricevo|045
+Kobarid|046
+Kobilje|047
+Kocevje|048
+Komen|049
+Komenda|164
+Koper|050
+Kodanjevica na Krki|197
+Kostel|165
+Kozje|051
+Kranj|052
+Kranjska Gora|053
+Krizevci|166
+Krsko|054
+Kungota|055
+Kuzma|056
+Lasko|057
+Lenart|058
+Lendava|059
+Litija|060
+Ljubljana|061
+Ljubno|062
+Ljutomer|063
+Log-Dragomer|208
+Logatec|064
+Loska Dolina|065
+Loski Potok|066
+Lovrenc na Pohorju|167
+Lukovica|068
+Luce|067
+Majsperk|069
+Makole|198
+Maribor|070
+Markovci|168
+Medvode|071
+Menges|072
+Metlika|073
+Mezica|074
+Miklavz na Dravskem Polju|169
+Miren-Kostanjevica|075
+Mirna|212
+Mirna Pec|170
+Mislinja|076
+Mokronog-Trebelno|199
+Moravce|077
+Moravske Toplice|078
+Mozirje|079
+Murska Sobota|080
+Naklo|082
+Nazarje|083
+Nova Gorica|084
+Novo Mesto|085
+Odranci|086
+Ormoz|087
+Osilnica|088
+Pesnica|089
+Piran|090
+Pivka|091
+Podcetrtek|092
+Podlehnik|172
+Podvelka|093
+Poljcane|200
+Postojna|094
+Prebold|174
+Preddvor|095
+Prevalje|175
+Ptuj|096
+Race-Fram|098
+Radece|099
+Radenci|100
+Radlje ob Dravi|101
+Radovljica|102
+Ravne na Koroskem|103
+Razkrizje|176
+Recica ob Savinji|209
+Rence-Vogrsko|201
+Ribnica|104
+Ribnica na Poboriu|177
+Rogaska Slatina|106
+Rogasovci|105
+Rogatec|107
+Ruse|108
+Salovci|033
+Selnica ob Dravi|178
+Semic|109
+Sempeter-Vrtojba|183
+Sencur|117
+Sentilj|118
+Sentjernej|119
+Sentjur|120
+Sentrupert|211
+Sevnica|110
+Sezana|111
+Skocjan|121
+Skofja Loka|122
+Skofljica|123
+Slovenj Gradec|112
+Slovenska Bistrica|113
+Slovenske Konjice|114
+Smarje pri elsah|124
+Smarjeske Toplice|206
+Smartno ob Paki|125
+Smartno pri Litiji|194
+Sodrazica|179
+Solcava|180
+Sostanj|126
+Sredisce ob Dravi|202
+Starse|115
+Store|127
+Straza|203
+Sveta Ana|181
+Sveta Trojica v Slovenskih Goricah|204
+Sveta Andraz v Slovenskih Goricah|182
+Sveti Jurij|116
+Sveti Jurij v Slovenskih Goricah|210
+Sveti Tomaz|205
+Tabor|184
+Tisina|010
+Tolmin|128
+Trbovlje|129
+Trebnje|130
+Trnovska Vas|185
+Trzin|186
+Trzic|131
+Turnisce|132
+Velenje|133
+Velika Polana|187
+Velike Lasce|134
+Verzej|188
+Videm|135
+Vipava|136
+Vitanje|137
+Vodice|138
+Vojnik|139
+Vransko|189
+Vrhnika|140
+Vuzenica|141
+Zagorje ob Savi|142
+Zavrc|143
+Zrece|144
+Zalec|190
+Zelezniki|146
+Zetale|191
+Ziri|147
+Zirovnica|192
+Zuzemberk|193

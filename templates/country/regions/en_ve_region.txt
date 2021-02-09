@@ -1,0 +1,25 @@
+Dependencias Federales|W
+Distrito Federal|A
+Amazonas|Z
+Anzoátegui|B
+Apure|C
+Aragua|D
+Barinas|E
+Bolívar|F
+Carabobo|G
+Cojedes|H
+Delta Amacuro|Y
+Falcón|I
+Guárico|J
+Lara|K
+Mérida|L
+Miranda|M
+Monagas|N
+Nueva Esparta|O
+Portuguesa|P
+Sucre|R
+Táchira|S
+Trujillo|T
+Vargas|X
+Yaracuy|U
+Zulia|V

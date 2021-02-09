@@ -1,0 +1,9 @@
+Central|CE
+Ghanzi|GH
+Kgalagadi|KG
+Kgatleng|KL
+Kweneng|KW
+North West|NW
+North-East|NE
+South East|SE
+Southern|SO

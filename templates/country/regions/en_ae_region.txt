@@ -1,0 +1,7 @@
+Abu Dhabi|AZ
+Ajman|AJ
+Dubai|DU
+Fujairah|FU
+Ras al Khaimah|RK
+Sharjah|SH
+Umm Al Quwain|UQ

@@ -1,0 +1,12 @@
+Alibori|AL
+Atakora|AK
+Atlantique|AQ
+Borgou|BO
+Collines Department|CO
+Donga|DO
+Kouffo|KO
+Littoral Department|LI
+Mono Department|MO
+Ouémé|OU
+Plateau|PL
+Zou|ZO

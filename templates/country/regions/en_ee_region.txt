@@ -1,0 +1,15 @@
+Harjumaa (Tallinn)|37
+Hiiumaa (Kardla)|39
+Ida-Virumaa (Johvi)|44
+Järvamaa (Paide)|41
+Jõgevamaa (Jogeva)|49
+Läänemaa|57
+Lääne-Virumaa (Rakvere)|59
+Pärnumaa (Parnu)|67
+Põlvamaa (Polva)|65
+Raplamaa (Rapla)|70
+Saaremaa (Kuessaare)|74
+Tartumaa (Tartu)|78
+Valgamaa (Valga)|82
+Viljandimaa (Viljandi)|84
+Võrumaa (Voru)|86

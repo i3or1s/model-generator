@@ -1,0 +1,15 @@
+{
+    "value": {
+        "generator": "i3or1s\\Generator\\PersonDictionary::firstName",
+        "modifier": [
+            "i3or1s\\Modifier\\AnyLatin2LatinASCII::transform",
+            "strtolower"
+        ]
+    },
+    "type": {
+        "generator": "i3or1s\\Generator\\Lottery::draw",
+        "params": {
+            "choices": ["twitter", "aim"]
+        }
+    }
+}

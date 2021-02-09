@@ -1,0 +1,9 @@
+Basnahira|1
+Dakunu|3
+Madhyama|2
+Naegenahira|5
+Sabaragamuwa|9
+Uturu|4
+Uturumaeda|7
+Vayamba|6
+Uva|8

@@ -1,0 +1,19 @@
+Agnéby|16
+Bafing|17
+Bas-Sassandra|09
+Denguélé|10
+Dix-Huit Montagnes|06
+Fromager|18
+Haut-Sassandra|02
+Lacs|07
+Lagunes|01
+Marahoué|12
+Moyen-Cavally|19
+Moyen-Comoé|05
+N'zi-Comoé|11
+Savanes|03
+Sud-Bandama|15
+Sud-Comoé|13
+Vallée du Bandama|04
+Worodougou|14
+Zanzan|08

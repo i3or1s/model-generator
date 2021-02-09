@@ -1,0 +1,37 @@
+Aenii Noi|AN
+Basarabeasca|BS
+Bălți|BA
+Bender|BD
+Briceni|BR
+Cahul|CA
+Cantemir|CT
+Călărași|CL
+Căușeni|CS
+Chișinău|CU
+Cimișlia|CM
+Criuleni|CR
+Dondușeni|DO
+Drochia|DR
+Dubăsari|DU
+Edineț|ED
+Fălești|FA
+Florești|FL
+Găgăuzia|GA
+Glodeni|GL
+Hîncești|HI
+Ialoveni|IA
+Leova|LE
+Nisporeni|NI
+Ocnița|OC
+Orhei|OR
+Rezina|RE
+Rîșcani|RI
+Sîngerei|SI
+Soroca|SO
+Stînga Nistrului|SN
+Strășeni|ST
+Șoldănești|SD
+Ștefan Vodă|SV
+Taraclia|TA
+Telenești|TE
+Ungheni|UN

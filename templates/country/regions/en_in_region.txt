@@ -1,0 +1,36 @@
+Andaman and Nicobar Islands|AN
+Andhra Pradesh|AP
+Arunachal Pradesh|AR
+Assam|AS
+Bihar|BR
+Chandigarh|CH
+Chhattisgarh|CT
+Dadra and Nagar Haveli|DN
+Daman and Diu|DD
+Delhi|DL
+Goa|GA
+Gujarat|GJ
+Haryana|HR
+Himachal Pradesh|HP
+Jammu and Kashmir|JK
+Jharkhand|JH
+Karnataka|KA
+Kerala|KL
+Lakshadweep|LD
+Madhya Pradesh|MP
+Maharashtra|MH
+Manipur|MN
+Meghalaya|ML
+Mizoram|MZ
+Nagaland|NL
+Odisha|OR
+Puducherry|PY
+Punjab|PB
+Rajasthan|RJ
+Sikkim|WK
+Tamil Nadu|TN
+Telangana|TG
+Tripura|TR
+Uttarakhand|UT
+Uttar Pradesh|UP
+West Bengal|WB

@@ -1,0 +1,8 @@
+Batken Oblasty|B
+Bishkek Shaary|GB
+Chuy Oblasty (Bishkek)|C
+Jalal-Abad Oblasty|J
+Naryn Oblasty|N
+Osh Oblasty|O
+Talas Oblasty|T
+Ysyk-Kol Oblasty (Karakol)|Y

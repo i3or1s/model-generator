@@ -1,0 +1,13 @@
+Bocas del Toro|1
+Chiriquí|4
+Coclé|2
+Colón|3
+Darién|5
+Emberá|EM
+Herrera|6
+Kuna Yala|KY
+Los Santos|7
+Ngäbe-Buglé|NB
+Panamá|8
+Panamá Oeste|10
+Veraguas|9

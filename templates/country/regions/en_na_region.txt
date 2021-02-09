@@ -1,0 +1,14 @@
+Erongo|ER
+Hardap|HA
+Kavango East|KE
+Kavango West|KW
+Karas|KA
+Khomas|KH
+Kunene|KU
+Ohangwena|OW
+Omaheke|OH
+Omusati|OS
+Oshana|ON
+Oshikoto|OT
+Otjozondjupa|OD
+Zambezi|CA

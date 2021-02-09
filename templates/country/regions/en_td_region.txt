@@ -1,0 +1,22 @@
+Bahr el Ghazal|BG
+Batha|BA
+Borkou|BO
+Chari-Baguirmi|CB
+Ennedi-Est|EE
+Ennedi-Ouest|EO
+Guéra|GR
+Hadjer Lamis|HL
+Kanem|KA
+Lac|LC
+Logone Occidental|LO
+Logone Oriental|LR
+Mondoul|MA
+Mayo-Kébbi-Est|ME
+Moyen-Chari|MC
+Ouaddai|OD
+Salamat|SA
+Sila|SI
+Tandjilé|TA
+Tibesti|TI
+Ville de Ndjamena|ND
+Wadi Fira|WF

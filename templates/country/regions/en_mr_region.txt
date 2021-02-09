@@ -1,0 +1,15 @@
+Adrar|07
+Assaba|03
+Brakna|05
+Dakhlet Nouadhibou|08
+Gorgol|04
+Guidimaka|10
+Hodh Ech Chargui|01
+Hodh El Gharbi|02
+Inchiri|12
+Nouakchott Nord|14
+Nouakchott Ouest|13
+Nouakchott Sud|15
+Tagant|09
+Tiris Zemmour|11
+Trarza|06

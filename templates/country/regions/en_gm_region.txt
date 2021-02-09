@@ -1,0 +1,6 @@
+Banjul|B
+Central River|M
+Lower River|L
+North Bank|N
+Upper River|U
+Western|W

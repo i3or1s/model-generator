@@ -1,0 +1,10 @@
+Central|CE
+Choiseul|CH
+Guadalcanal|GU
+Honiara|CT
+Isabel|IS
+Makira-Ulawa|MK
+Malaita|ML
+Rennell and Bellona|RB
+Temotu|TE
+Western|WE

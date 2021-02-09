@@ -1,0 +1,7 @@
+Alajuela|2
+Cartago|3
+Guanacaste|5
+Heredia|4
+Limón|7
+Puntarenas|6
+San José|1

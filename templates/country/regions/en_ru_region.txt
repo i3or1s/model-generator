@@ -1,0 +1,83 @@
+Republic of Adygea|AD
+Republic of Altai (Gorno-Altaysk)|AL
+Altai Krai|ALT
+Amur Oblast|AMU
+Arkhangelsk Oblast|ARK
+Astrakhan Oblast|AST
+Republic of Bashkortostan|BA
+Belgorod Oblast|BEL
+Bryansk Oblast|BRY
+Republic of Buryatia|BU
+Chechen Republic|CE
+Chelyabinsk Oblast|CHE
+Chukotka Autonomous Okrug|CHU
+Chuvash Republic|CU
+Republic of Dagestan|DA
+Republic of Ingushetia|IN
+Irkutsk Oblast|IRK
+Ivanovo Oblast|IVA
+Jewish Autonomous Oblast|JEW
+Kabardino-Balkar Republic|KB
+Kaliningrad Oblast|KLN
+Republic of Kalmykia|KL
+Kaluga Oblast|KLU
+Kamchatka Krai|KAM
+Karachay-Cherkess Republic|KC
+Republic of Karelia|KR
+Khabarovsk Krai|KHA
+Republic of Khakassia|KK
+Khanty-Mansi Autonomous Okrug - Yugra|KHM
+Kemerovo Oblast|KEM
+Kirov Oblast|KIR
+Komi Republic|KO
+Kostroma Oblast|KOS
+Krasnodar Krai|KDA
+Krasnoyarsk Krai|KYA
+Kurgan Oblast|KGN
+Kursk Oblast|KRS
+Leningrad Oblast|LEN
+Lipetsk Oblast|LIP
+Magadan Oblast|MAG
+Mari El Republic|ME
+Republic of Mordovia|MO
+Moscow Oblast|MOS
+Moscow|MOW
+Murmansk Oblast|MU
+Nenets Autonomous Okrug|NEN
+Nizhny Novgorod Oblast|NIZ
+Novgorod Oblast|NGR
+Novosibirsk Oblast|NVS
+Omsk Oblast|OMS
+Orenburg Oblast|ORE
+Oryol Oblast|ORL
+Penza Oblast|PNZ
+Perm Krai|PER
+Primorsky Krai|PRI
+Pskov Oblast|PSK
+Rostov Oblast|ROS
+Ryazan Oblast|RYA
+Saint Petersburg|SPE
+Sakha (Yakutia) Republic|SA
+Sakhalin Oblast|SAK
+Samara Oblast|SAM
+Saratov Oblast|SAR
+Republic of North Ossetia-Alania|NOA
+Smolensk Oblast|SMO
+Stavropol Krai|STA
+Sverdlovsk Oblast|SVE
+Tambov Oblast|TAM
+Republic of Tatarstan|TA
+Tomsk Oblast|TOM
+Tuva Republic|TU
+Tula Oblast|TUL
+Tver Oblast|TVE
+Tyumen Oblast|TYU
+Udmurt Republic|UD
+Ulyanovsk Oblast|ULY
+Vladimir Oblast|VLA
+Volgograd Oblast|VGG
+Vologda Oblast|VLG
+Voronezh Oblast|VOR
+Yamalo-Nenets Autonomous Okrug|YAN
+Yaroslavl Oblast|YAR
+Zabaykalsky Krai|ZAB

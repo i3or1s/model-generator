@@ -1,0 +1,22 @@
+Alta Verapaz|AV
+Baja Verapaz|BV
+Chimaltenango|CM
+Chiquimula|CQ
+El Progreso|PR
+Escuintla|ES
+Guatemala|GU
+Huehuetenango|HU
+Izabal|IZ
+Jalapa|JA
+Jutiapa|JU
+Petén|PE
+Quetzaltenango|QZ
+Quiché|QC
+Retalhuleu|Re
+Sacatepéquez|SA
+San Marcos|SM
+Santa Rosa|SR
+Sololá|SO
+Suchitepéquez|SU
+Totonicapán|TO
+Zacapa|ZA

@@ -1,0 +1,9 @@
+Cibao Central|02
+Del Valle|37
+Distrito Nacional|01
+Enriquillo|38
+Norcentral|04
+Nordeste|33
+Noroeste|34
+Norte|35
+Valdesia|42

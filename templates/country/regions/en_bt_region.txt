@@ -1,0 +1,20 @@
+Bumthang|33
+Chhukha|12
+Dagana|22
+Gasa|GA
+Haa|13
+Lhuntse|44
+Mongar|42
+Paro|11
+Pemagatshel|43
+Punakha|23
+Samdrup Jongkhar|45
+Samtse|14
+Sarpang|31
+Thimphu|15
+Trashigang|41
+Trashiyangtse|TY
+Trongsa|32
+Tsirang|21
+Wangdue Phodrang|24
+Zhemgang|34

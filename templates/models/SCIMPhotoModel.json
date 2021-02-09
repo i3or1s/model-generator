@@ -1,0 +1,16 @@
+{
+    "value": {
+        "generator": "i3or1s\\Generator\\PersonDictionary::firstName",
+        "template": "https://via.placeholder.com/64x64?text=%s",
+        "modifier": [
+            "i3or1s\\Modifier\\AnyLatin2LatinASCII::transform",
+            "strtolower"
+        ]
+    },
+    "type": {
+        "generator": "i3or1s\\Generator\\Lottery::draw",
+        "params": {
+            "choices": ["photo", "thumbnail"]
+        }
+    }
+}

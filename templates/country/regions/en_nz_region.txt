@@ -1,0 +1,17 @@
+Auckland|AUK
+Bay of Plenty|BOP
+Canterbury|CAN
+Gisborne|GIS
+Hawke's Bay|HKB
+Marlborough|MBH
+Manawatu-Wanganui|MWT
+Northland|NTL
+Nelson|NSN
+Otago|OTA
+Southland|STL
+Taranaki|TKI
+Tasman|TAS
+Waikato|WKO
+Wellington|WGN
+West Coast|WTC
+Chatham Islands Territory|CIT

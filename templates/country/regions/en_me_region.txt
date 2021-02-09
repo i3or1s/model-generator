@@ -1,0 +1,23 @@
+Andrijevica|01
+Bar|02
+Berane|03
+Bijelo Polje|04
+Budva|05
+Cetinje|06
+Danilovgrad|07
+Gusinje|22
+Herceg Novi|08
+Kolašin|09
+Kotor|10
+Mojkovac|11
+Nikšić|12
+Petnica|23
+Plav|13
+Plužine|14
+Pljevlja|15
+Podgorica|16
+Rožaje|17
+Šavnik|18
+Tivat|19
+Ulcinj|20
+Žabljak|21
